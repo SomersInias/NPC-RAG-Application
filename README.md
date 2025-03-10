@@ -82,6 +82,10 @@ This application provides an interactive interface using **Streamlit** to engage
 - Upload a text file defining your NPC character. Ensure the document follows the format the same the example npc [here](https://github.com/SomersInias/NPC-RAG-Application/blob/main/data/testnpc1.txt)
 - Start chatting with your NPC by typing in the chat input box.
 
+## Note
+
+Note that this is just a quickly created showcase project. Creating intelligent NPCs using AI technology comes with challenges, including handling context limitations, ensuring consistent character behavior, and making sure the NPC understands the user intent and the context.
+
 ## Demo
 
 ![2025-03-1016-06-29-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/73060392-1a18-4689-a679-496e7e06d8ff)
