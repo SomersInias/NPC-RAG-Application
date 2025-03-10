@@ -84,3 +84,10 @@ This application provides an interactive interface using **Streamlit** to engage
 
 ## Demo
 
+![2025-03-1016-06-29-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/73060392-1a18-4689-a679-496e7e06d8ff)
+
+![2025-03-1016-09-11-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4eedf742-55b6-43eb-8726-47041647bde6)
+
+
+
+
